@@ -1,0 +1,1 @@
+The program uses the requests library in python and weather API from https://openweathermap.org/api to show concise weather description and temperature in Celsius.
